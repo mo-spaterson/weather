@@ -6,4 +6,4 @@ Foggy and cold.
 
 ## Tomorrow
 
-Cold.
+Sunny.
